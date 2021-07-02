@@ -1,0 +1,10 @@
+/bin
+/compiler_compat
+/conda-meta
+/include
+/info
+/lib
+/share
+/ssl
+/x86_64-conda-linux-gnu
+/x86_64-conda_cos6-linux-gnu
